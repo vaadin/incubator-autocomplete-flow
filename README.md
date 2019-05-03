@@ -1,5 +1,9 @@
-# Incubator Autocomplete for Flow
+# Deprecated 
+This repository has been deprecated. Please find the latest code here: 
+https://github.com/vaadin-component-factory/autocomplete
 
+
+# Incubator Autocomplete for Flow
 
 [Live Demo ↗](https://incubator.app.fi/incubator-autocomplete-demo/index.html)
 
